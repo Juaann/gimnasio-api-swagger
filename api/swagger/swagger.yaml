@@ -20,7 +20,7 @@ produces:
 paths:
   /usuario:
     # binds a127 app logic to a route
-    x-swagger-router-controller: hello_world
+    x-swagger-router-controller: usuario
     get:
       description: Devuelve el usuario por nombre
       # used as the method name of the controller

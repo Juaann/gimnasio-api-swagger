@@ -1,4 +1,8 @@
 # Skeleton project for Swagger
+# Install
+```
+npm install
+```
 
 # Run server
 ```
